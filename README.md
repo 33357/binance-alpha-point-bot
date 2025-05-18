@@ -9,7 +9,7 @@
 
 
 ## ppt
-
+[binanceAlphaPointBot.pdf](./binanceAlphaPointBot.pdf)
 
 ## 团队
 
